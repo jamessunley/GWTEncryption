@@ -1,0 +1,9 @@
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\bin\Debug\netstandard2.0\GWTEncryption.deps.json
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\bin\Debug\netstandard2.0\GWTEncryption.dll
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\bin\Debug\netstandard2.0\GWTEncryption.pdb
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\obj\Debug\netstandard2.0\GWTEncryption.csprojAssemblyReference.cache
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\obj\Debug\netstandard2.0\GWTEncryption.csproj.CoreCompileInputs.cache
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\obj\Debug\netstandard2.0\GWTEncryption.AssemblyInfoInputs.cache
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\obj\Debug\netstandard2.0\GWTEncryption.AssemblyInfo.cs
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\obj\Debug\netstandard2.0\GWTEncryption.dll
+c:\users\james\source\repos\GWTEncryption\GWTEncryption\obj\Debug\netstandard2.0\GWTEncryption.pdb
